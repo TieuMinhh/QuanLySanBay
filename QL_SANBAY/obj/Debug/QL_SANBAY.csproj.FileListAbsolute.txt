@@ -1,0 +1,181 @@
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.exe.config
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.exe
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.pdb
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.AssemblyReference.cache
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmMain.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDangNhap.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.Properties.Resources.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.GenerateResource.cache
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.exe.licenses
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.CoreCompileInputs.cache
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.CopyComplete
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.exe
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.pdb
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmLoai.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhaChua.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmMayBay.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmPhiCong.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhanVien.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDichVuBaoTri.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmChuMayBay.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmSoHuu.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmLai.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmBaoTri.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhanVienBaoTri.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmPhiCongLaiMayBay.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmChiTietNhanVienBaoTri.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmTaiKhoanPhiCong.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmThongTinNhanVien.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.rprtNhanVien.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.rprtMayBay.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDoiMatKhau.resources
+C:\Users\Pham Van Thanh\source\repos\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmTaoTaiKhoan.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.exe.config
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.exe
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\QL_SANBAY.pdb
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmMain.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmBaoTri.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmChiTietNhanVienBaoTri.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmChuMayBay.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDangNhap.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDichVuBaoTri.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmDoiMatKhau.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmLai.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmLoai.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmMayBay.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhaChua.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhanVien.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmNhanVienBaoTri.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmPhiCong.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmPhiCongLaiMayBay.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmSoHuu.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmTaiKhoanPhiCong.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmTaoTaiKhoan.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.frmThongTinNhanVien.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.Properties.Resources.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.rprtMayBay.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.rprtNhanVien.resources
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.exe.licenses
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.csproj.CopyComplete
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.exe
+C:\Users\acer\Downloads\NHOM_N19DCCN044\QL_SANBAY\QL_SANBAY\QL_SANBAY\obj\Debug\QL_SANBAY.pdb
